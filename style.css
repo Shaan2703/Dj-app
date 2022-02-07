@@ -1,0 +1,52 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+
+}
+
+.pro {
+    float: left;
+}
+.thara {
+    float: right;
+}
+
+.yo {
+    border-radius: 100px;
+    width: 200px;
+}
+
+.bhai {
+    border-radius: 100px;
+    width: 200px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.carry {
+    width: 130px;
+    font-size: 25px;
+
+}
+.noob {
+    font-size: 20px;
+
+}
+
+.joginder {
+    font-size: 20px;
+}
